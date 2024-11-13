@@ -35,7 +35,7 @@ const HashLoaderContainer = styled.div`
 const HashElement = styled.div`
   height: 5px;
   width: 30px;
-  background-color: #F71D00; // Adjust the color as needed
+  background-color: #0052f7; // Adjust the color as needed
   margin: 0 2px;
   transform-origin: center;
   animation: ${hashAnimation} 1.5s infinite;
