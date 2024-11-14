@@ -49,7 +49,7 @@ const HashLoader = () => {
       <Circles
         height="80"
         width="80"
-        color="#0052f7"
+        color="#cf0000"
         ariaLabel="circles-loading"
         wrapperStyle={{}}
         wrapperClass=""
